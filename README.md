@@ -8,3 +8,4 @@ Dynamic in use.
 #System requirements
 <a href="https://beakit.com/">Beak</a>
 
+<img src="https://t.bkit.co/w_668fce47bbd4d.gif" />
